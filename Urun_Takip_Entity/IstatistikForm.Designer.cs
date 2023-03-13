@@ -220,7 +220,7 @@
             // 
             // panel6
             // 
-            this.panel6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(34)))), ((int)(((byte)(112)))), ((int)(((byte)(147)))));
+            this.panel6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(140)))), ((int)(((byte)(122)))), ((int)(((byte)(230)))));
             this.panel6.Controls.Add(this.lblGunlukSatis);
             this.panel6.Controls.Add(this.label12);
             this.panel6.Location = new System.Drawing.Point(272, 163);
